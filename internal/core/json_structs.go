@@ -1,4 +1,4 @@
-package handler
+package core
 
 type AddCourseModule struct {
 	Name        string `json:"name"`
